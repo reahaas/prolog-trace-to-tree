@@ -18,7 +18,7 @@ def add_node(current, line):
         return Node(line, current)
 
 
-with open("/home/vagrant/openu/prolog/trace_monkey.txt", 'r') as trace_file:
+with open("/home/vagrant/openu/prolog/trace_there_is_way.txt", 'r') as trace_file:
     current = None
 
     while True:
