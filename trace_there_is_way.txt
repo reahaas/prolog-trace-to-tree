@@ -1,0 +1,112 @@
+   Call: (9) there_is_way(telaviv, heifa) ? creep
+   Call: (10) there_is_way(telaviv, heifa, nil) ? creep
+   Call: (11) road_from(telaviv, heifa) ? creep
+   Call: (12) road(telaviv, heifa) ? creep
+   Fail: (12) road(telaviv, heifa) ? creep
+   Fail: (11) road_from(telaviv, heifa) ? creep
+   Redo: (10) there_is_way(telaviv, heifa, nil) ? creep
+   Call: (11) road_from(telaviv, _4236) ? creep
+   Call: (12) road(telaviv, _4236) ? creep
+   Exit: (12) road(telaviv, natanya) ? creep
+   Exit: (11) road_from(telaviv, natanya) ? creep
+   Call: (11) natanya\=nil ? creep
+   Exit: (11) natanya\=nil ? creep
+   Call: (11) there_is_way(natanya, heifa, telaviv) ? creep
+   Call: (12) road_from(natanya, heifa) ? creep
+   Call: (13) road(natanya, heifa) ? creep
+   Fail: (13) road(natanya, heifa) ? creep
+   Fail: (12) road_from(natanya, heifa) ? creep
+   Redo: (11) there_is_way(natanya, heifa, telaviv) ? creep
+   Call: (12) road_from(natanya, _4236) ? creep
+   Call: (13) road(natanya, _4236) ? creep
+   Fail: (13) road(natanya, _4236) ? creep
+   Fail: (12) road_from(natanya, _4236) ? creep
+   Redo: (11) there_is_way(natanya, heifa, telaviv) ? creep
+   Call: (12) road_to(natanya, heifa) ? creep
+   Call: (13) road(heifa, natanya) ? creep
+   Fail: (13) road(heifa, natanya) ? creep
+   Fail: (12) road_to(natanya, heifa) ? creep
+   Redo: (11) there_is_way(natanya, heifa, telaviv) ? creep
+   Call: (12) road_to(natanya, _4236) ? creep
+   Call: (13) road(_4234, natanya) ? creep
+   Exit: (13) road(telaviv, natanya) ? creep
+   Exit: (12) road_to(natanya, telaviv) ? creep
+   Call: (12) telaviv\=telaviv ? creep
+   Fail: (12) telaviv\=telaviv ? creep
+   Redo: (13) road(_4234, natanya) ? creep
+   Exit: (13) road(hadera, natanya) ? creep
+   Exit: (12) road_to(natanya, hadera) ? creep
+   Call: (12) hadera\=telaviv ? creep
+   Exit: (12) hadera\=telaviv ? creep
+   Call: (12) there_is_way(hadera, heifa, natanya) ? creep
+   Call: (13) road_from(hadera, heifa) ? creep
+   Call: (14) road(hadera, heifa) ? creep
+   Exit: (14) road(hadera, heifa) ? creep
+   Exit: (13) road_from(hadera, heifa) ? creep
+   Call: (13) heifa\=natanya ? creep
+   Exit: (13) heifa\=natanya ? creep
+   Exit: (12) there_is_way(hadera, heifa, natanya) ? creep
+   Exit: (11) there_is_way(natanya, heifa, telaviv) ? creep
+   Exit: (10) there_is_way(telaviv, heifa, nil) ? creep
+   Exit: (9) there_is_way(telaviv, heifa) ? creep
+true ; 
+   Redo: (12) there_is_way(hadera, heifa, natanya) ? creep
+   Call: (13) road_from(hadera, _4236) ? creep
+   Call: (14) road(hadera, _4236) ? creep
+   Exit: (14) road(hadera, natanya) ? creep
+   Exit: (13) road_from(hadera, natanya) ? creep
+   Call: (13) natanya\=natanya ? creep
+   Fail: (13) natanya\=natanya ? creep
+   Redo: (14) road(hadera, _4236) ? creep
+   Exit: (14) road(hadera, heifa) ? creep
+   Exit: (13) road_from(hadera, heifa) ? creep
+   Call: (13) heifa\=natanya ? creep
+   Exit: (13) heifa\=natanya ? creep
+   Call: (13) there_is_way(heifa, heifa, hadera) ? creep
+   Call: (14) road_from(heifa, heifa) ? creep
+   Call: (15) road(heifa, heifa) ? creep
+   Fail: (15) road(heifa, heifa) ? creep
+   Fail: (14) road_from(heifa, heifa) ? creep
+   Redo: (13) there_is_way(heifa, heifa, hadera) ? creep
+   Call: (14) road_from(heifa, _4236) ? creep
+   Call: (15) road(heifa, _4236) ? creep
+   Fail: (15) road(heifa, _4236) ? creep
+   Fail: (14) road_from(heifa, _4236) ? creep
+   Redo: (13) there_is_way(heifa, heifa, hadera) ? creep
+   Call: (14) road_to(heifa, heifa) ? creep
+   Call: (15) road(heifa, heifa) ? creep
+   Fail: (15) road(heifa, heifa) ? creep
+   Fail: (14) road_to(heifa, heifa) ? creep
+   Redo: (13) there_is_way(heifa, heifa, hadera) ? creep
+   Call: (14) road_to(heifa, _4236) ? creep
+   Call: (15) road(_4234, heifa) ? creep
+   Exit: (15) road(hadera, heifa) ? creep
+   Exit: (14) road_to(heifa, hadera) ? creep
+   Call: (14) hadera\=hadera ? creep
+   Fail: (14) hadera\=hadera ? creep
+   Fail: (13) there_is_way(heifa, heifa, hadera) ? creep
+   Redo: (12) there_is_way(hadera, heifa, natanya) ? creep
+   Call: (13) road_to(hadera, heifa) ? creep
+   Call: (14) road(heifa, hadera) ? creep
+   Fail: (14) road(heifa, hadera) ? creep
+   Fail: (13) road_to(hadera, heifa) ? creep
+   Redo: (12) there_is_way(hadera, heifa, natanya) ? creep
+   Call: (13) road_to(hadera, _4236) ? creep
+   Call: (14) road(_4234, hadera) ? creep
+   Fail: (14) road(_4234, hadera) ? creep
+   Fail: (13) road_to(hadera, _4236) ? creep
+   Fail: (12) there_is_way(hadera, heifa, natanya) ? creep
+   Fail: (11) there_is_way(natanya, heifa, telaviv) ? creep
+   Redo: (10) there_is_way(telaviv, heifa, nil) ? creep
+   Call: (11) road_to(telaviv, heifa) ? creep
+   Call: (12) road(heifa, telaviv) ? creep
+   Fail: (12) road(heifa, telaviv) ? creep
+   Fail: (11) road_to(telaviv, heifa) ? creep
+   Redo: (10) there_is_way(telaviv, heifa, nil) ? creep 
+   Call: (11) road_to(telaviv, _4236) ? creep
+   Call: (12) road(_4234, telaviv) ? creep
+   Fail: (12) road(_4234, telaviv) ? creep
+   Fail: (11) road_to(telaviv, _4236) ? creep
+   Fail: (10) there_is_way(telaviv, heifa, nil) ? creep
+   Fail: (9) there_is_way(telaviv, heifa) ? creep
+false.
