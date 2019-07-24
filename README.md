@@ -20,3 +20,5 @@ Call: (12) road(telaviv, _4236) ? creep
 Then use this python code to print the calls trace tree: Its build the tree relying on the first word of the trace: {Call, Fail, Exit, Redo}.
 
 notice: change the file path/name in the code (with open(...)).
+
+
