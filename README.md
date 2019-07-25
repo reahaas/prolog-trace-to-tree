@@ -30,3 +30,6 @@ https://onlinetexttools.com/convert-text-to-image
 # The final results are:
 Look how beautifull is end's up:
 
+![q2_trace_there_is_way](https://user-images.githubusercontent.com/35425887/61906076-35a96e80-af33-11e9-84f8-2a1a323669ac.png)
+
+![q3_trace_monkey](https://user-images.githubusercontent.com/35425887/61906086-3c37e600-af33-11e9-9239-4f5e091acef3.png)
