@@ -22,3 +22,11 @@ Then use this python code to print the calls trace tree: Its build the tree rely
 notice: change the file path/name in the code (with open(...)).
 
 
+# Text to image
+The next problem is how to present the huge text tree in one screen, in a zoomable image, that will allow us to zoom out to see the full tree structure, and to zoom in to see the actual function calls.
+After some searches I found this link, that create an image from the text:
+https://onlinetexttools.com/convert-text-to-image
+
+# The final results are:
+Look how beautifull is end's up:
+
